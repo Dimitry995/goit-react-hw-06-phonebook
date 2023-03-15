@@ -12,4 +12,4 @@ export const patternNumber =
 
 export const errorName = 'Name may contain only letters, apostrophe and spaces';
 
-export const errorNumber = "Phone number must be digits and can contain spaces, dashes, parentheses and can start with +";
+export const errorNumber = "Phone number must be digits";
